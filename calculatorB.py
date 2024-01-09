@@ -1,7 +1,7 @@
 # Calculator B 
 
 def multiply(a, b):
-    return a * b + 100
+    return a * b 
 
 
 
@@ -14,4 +14,4 @@ def divide(a, b):
 
 
 def power(base, exponent):
-    return base ** exponent * 5
+    return base ** exponent 
