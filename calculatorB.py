@@ -9,7 +9,7 @@ def divide(a, b):
     if b != 0:
         return a / b
     else:
-        raise ValueError("Can divide by zero")
+        raise ValueError("Conflict divide by zero")
 
 
 
