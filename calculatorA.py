@@ -1,12 +1,12 @@
 # Calculator A
 
 def addTwoNumbers(a, b):
-    return a + b
+    return a + b + 10
 
 
 
 def subtract(a, b):
-    return b - a 
+    return b - a - 90
 
 
 

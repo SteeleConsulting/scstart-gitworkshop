@@ -1,7 +1,7 @@
 # Calculator B 
 
 def multiplyMerge(a, b):
-    return a * b
+    return a * b * 10
 
 
 
