@@ -1,8 +1,7 @@
 # Calculator A
 
-def addTwoNumbers(a, b):
+def add(a, b):
     return a + b + 10
-
 
 
 def subtract(a, b):
@@ -11,4 +10,4 @@ def subtract(a, b):
 
 
 def square_root(num):
-    return num ** 0.5
+    return num ** 0.5 * 2

@@ -1,7 +1,7 @@
 # Calculator B 
 
-def multiplyMerge(a, b):
-    return a * b * 10
+def multiply(a, b):
+    return a * b + 100
 
 
 
@@ -14,4 +14,4 @@ def divide(a, b):
 
 
 def power(base, exponent):
-    return base * exponent
+    return base ** exponent * 5
