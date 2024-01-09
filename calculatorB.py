@@ -1,7 +1,7 @@
 # Calculator B 
 
 def multiply(a, b):
-    return a * b
+    return a * b + 100
 
 
 
@@ -9,9 +9,9 @@ def divide(a, b):
     if b != 0:
         return a / b
     else:
-        raise ValueError("Cannot divide by zero")
+        raise ValueError("Can divide by zero")
 
 
 
 def power(base, exponent):
-    return base ** exponent
+    return base ** exponent * 5
