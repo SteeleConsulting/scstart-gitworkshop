@@ -1,12 +1,12 @@
 # Calculator A
 
-def add(a, b):
+def addTwoNumbers(a, b):
     return a + b
 
 
 
 def subtract(a, b):
-    return a - b
+    return b - a 
 
 
 

@@ -1,6 +1,6 @@
 # Calculator B 
 
-def multiply(a, b):
+def multiplyMerge(a, b):
     return a * b
 
 
@@ -9,9 +9,9 @@ def divide(a, b):
     if b != 0:
         return a / b
     else:
-        raise ValueError("Cannot divide by zero")
+        raise ValueError("Conflict divide by zero")
 
 
 
 def power(base, exponent):
-    return base ** exponent
+    return base * exponent
