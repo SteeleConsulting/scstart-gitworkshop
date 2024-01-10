@@ -1,7 +1,7 @@
 # Calculator A
 
 def add(a, b):
-    return a + b 
+    return a + b + 10 
 
 
 def subtract(a, b):
