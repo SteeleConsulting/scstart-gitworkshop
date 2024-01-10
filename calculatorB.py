@@ -14,4 +14,4 @@ def divide(a, b):
 
 
 def power(base, exponent):
-    return base ** exponent + 109
+    return base ** exponent 
