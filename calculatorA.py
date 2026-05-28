@@ -11,3 +11,6 @@ def square_root(num):
 
 def division(a, b):
     return a // b
+
+def add_subtract(a, b):
+    return (a - b) + (b - a)
