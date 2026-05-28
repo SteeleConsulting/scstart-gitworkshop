@@ -12,3 +12,7 @@ def subtract(a, b):
 
 def square_root(num):
     return num ** 0.5
+
+
+def divide(a,b):
+    return a/b
